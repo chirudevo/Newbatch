@@ -1,1 +1,2 @@
 this is to understand branches
+To understand the git automation
